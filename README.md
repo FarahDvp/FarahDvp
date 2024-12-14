@@ -23,8 +23,8 @@
 
 <hr>
 <pre>
-<p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">https://www.linkedin.com/in/farah-dridi-it-engineer/</a><br><br>
-🌐 My [Portfolio](https://farah.com)</p>
+<p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">https://www.linkedin.com/in/farah-dridi-it-engineer/</a><br>
+• 🌐 My Portfolio</p> <!-- 🌐 [Portfolio](https://farah.vercel.app) -->
 </pre>
 <hr>
 
@@ -143,15 +143,15 @@
 Key Strengths:
 <br/>
 
-• Strong problem-solving skills and expertise in multiple programming languages.
+✨ Strong problem-solving skills and expertise in multiple programming languages.
 <br/>
-• Proven ability to write maintainable, optimized code.
+✨ Proven ability to write maintainable, optimized code.
 <br/>
-• Focused on delivering quality through rigorous testing and code reviews.
+✨ Focused on delivering quality through rigorous testing and code reviews.
 <br/>
-• Passionate about continuous learning and staying up-to-date with the latest technologies.
+✨ Passionate about continuous learning and staying up-to-date with the latest technologies.
 <br/>
-• Collaborative team player with excellent communication skills.
+✨ Collaborative team player with excellent communication skills.
   </td>
   <td width="50%" valign="top">
 	  
