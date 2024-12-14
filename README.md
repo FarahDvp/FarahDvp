@@ -157,6 +157,7 @@
 <br/>
 ✨ Collaborative team player with excellent communication skills.
   </td>
+  <br/>
   <td width="45%" valign="top">
 	  
 ## Feedback is essential
