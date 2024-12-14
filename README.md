@@ -17,7 +17,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/FarahDvp">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Java,+JavaScript,+Python+Developer;Experienced+in+Code+Quality+Assurance;Committed%20to%20Continuous%20Learning&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Java,+JavaScript,+Python+Developer;Skilled+in+Code+Quality+Assurance;Committed%20to%20Continuous%20Learning&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -138,26 +138,41 @@
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
+	  
 ## Let's Build Better Software Together!
+
 Key Strengths:
+<br/>
 
 • Strong problem-solving skills and expertise in multiple programming languages.
+<br/>
 • Proven ability to write maintainable, optimized code.
+<br/>
 • Focused on delivering quality through rigorous testing and code reviews.
+<br/>
 • Passionate about continuous learning and staying up-to-date with the latest technologies.
+<br/>
 • Collaborative team player with excellent communication skills.
   </td>
   <td width="50%" valign="top">
+	  
 ## Feedback is essential
-**<a href="https://github.com/mohamedazizmasmoudi"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+**<a href="https://github.com/FarahDvp"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
+<br/>
 <br/>
 I believe in continuous improvement, both in code and in learning. Every project is an opportunity to grow, and I’m always open to feedback to make things better.
   </td>
   </tr>
 </table>
+
+
 ------
+
+
 [FarahDvp](https://github.com/FarahDvp)
 Last Edited on: 14/12/2024
 
