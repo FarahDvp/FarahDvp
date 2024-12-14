@@ -23,7 +23,8 @@
 
 <hr>
 <pre>
-<p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">https://www.linkedin.com/in/farah-dridi-it-engineer/</a></p>
+<p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">https://www.linkedin.com/in/farah-dridi-it-engineer/</a><br><br>
+🌐 My [Portfolio](https://farah.com)</p>
 </pre>
 <hr>
 
@@ -173,6 +174,7 @@ I believe in continuous improvement, both in code and in learning. Every project
 
 [FarahDvp](https://github.com/FarahDvp)
 <br/>
+<br>
 Last Edited on: 12/14/2024
 
 <!--
