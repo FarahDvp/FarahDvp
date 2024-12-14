@@ -98,7 +98,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
-<hr>
+
 
 ## 🤝 Connect with me
 
@@ -108,7 +108,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 <hr>
-###
 
 ## 💻 GitHub Stats
 <summary><b>⚡ FarahDvp's Stats</b></summary>
@@ -134,6 +133,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+<hr>
 
 <!--
 **FarahDvp/FarahDvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
