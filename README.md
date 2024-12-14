@@ -144,7 +144,7 @@
 	  
 ## Let's Build Better Software Together!
 
-Key Strengths:
+<b>Key Strengths:</b>
 <br/>
 
 ✨ Strong problem-solving skills and expertise in multiple programming languages.
