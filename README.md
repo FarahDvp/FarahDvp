@@ -23,7 +23,7 @@
 
 <hr>
 <pre>
-<p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences https://www.linkedin.com/in/farah-dridi-it-engineer/</p>
+<p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">https://www.linkedin.com/in/farah-dridi-it-engineer/</a></p>
 </pre>
 <hr>
 
@@ -101,8 +101,6 @@
 
 ## 🤝 Connect with me
 
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -111,7 +109,7 @@
 
 ###
 
-<h4 align="left">💻 GitHub Stats</h4>
+## 💻 GitHub Stats
 <summary><b>⚡ FarahDvp's Stats</b></summary>
 <br/>
 <p align="center">
@@ -120,15 +118,6 @@
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarahDvp" alt="FarahDvp">
 	</a>
 	<br/>
-</p>
-<br/>
-
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/FarahDvp">
-		<img src="https://activity-graph.herokuapp.com/graph?username=FarahDvp&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="FarahDvp">
-	</a>
 </p>
 <br/>
 
