@@ -23,8 +23,12 @@
 
 <hr>
 <pre>
-<p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">https://www.linkedin.com/in/farah-dridi-it-engineer/</a><br>
-• 🌐 My Portfolio</p> <!-- 🌐 [Portfolio](https://farah.vercel.app) -->
+<p align="left">
+  • 👯 I’m looking to collaborate on new projects and challenges<br>
+  • 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br>
+  • 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">https://www.linkedin.com/in/farah-dridi-it-engineer/</a><br>
+  • 🌐 My Portfolio <!-- 🌐 [Portfolio](https://farah.vercel.app) -->
+</p>
 </pre>
 <hr>
 
@@ -109,7 +113,7 @@
 <hr>
 
 ## 💻 GitHub Stats
-<summary><b>⚡ FarahDvp's Stats</b></summary>
+<b>⚡ FarahDvp's Stats</b>
 <br/>
 <p align="center">
 	<a href="https://github.com/FarahDvp">
@@ -136,7 +140,7 @@
 
 <table style="border: none">
   <tr>
-  <td width="50%" valign="top">
+  <td width="70%" valign="top">
 	  
 ## Let's Build Better Software Together!
 
@@ -153,7 +157,7 @@ Key Strengths:
 <br/>
 ✨ Collaborative team player with excellent communication skills.
   </td>
-  <td width="50%" valign="top">
+  <td width="30%" valign="top">
 	  
 ## Feedback is essential
 
