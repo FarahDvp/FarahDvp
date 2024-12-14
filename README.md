@@ -140,7 +140,7 @@
 
 <table style="border: none">
   <tr>
-  <td width="70%" valign="top">
+  <td width="60%" valign="top">
 	  
 ## Let's Build Better Software Together!
 
@@ -157,7 +157,7 @@ Key Strengths:
 <br/>
 ✨ Collaborative team player with excellent communication skills.
   </td>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
 	  
 ## Feedback is essential
 
