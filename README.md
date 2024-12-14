@@ -27,8 +27,6 @@
 </pre>
 <hr>
 
-###
-
 ## 👨‍💻 Languages and Tools
 
 ###
@@ -174,7 +172,8 @@ I believe in continuous improvement, both in code and in learning. Every project
 
 
 [FarahDvp](https://github.com/FarahDvp)
-Last Edited on: 14/12/2024
+<br/>
+Last Edited on: 12/14/2024
 
 <!--
 **FarahDvp/FarahDvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
