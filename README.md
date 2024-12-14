@@ -121,7 +121,7 @@
 <br/>
 
 
-<summary><b>⚡ Top Languages</b></summary>
+<b>⚡ Top Languages</b>
 <br/>
 <p align="center">
 	<a href="https://github.com/FarahDvp">
