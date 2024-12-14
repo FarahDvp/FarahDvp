@@ -6,11 +6,30 @@
 
 ###
 
+<p align="center">
+	<a href="https://github.com/FarahDvp">
+		<img src="https://komarev.com/ghpvc/?username=FarahDvp&label=Profile%20views&color=0e75b6&style=flat" alt="FarahDvp" />
+	</a>
+	<a href="https://github.com/FarahDvp">
+		<img src="https://img.shields.io/github/followers/FarahDvp?label=Followers" alt="FarahDvp" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/FarahDvp">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Java,+JavaScript,+Python+Developer;Test+Automation+Developer;Committed%20to%20Continuous%20Learning&center=true&width=380&height=45">
+	</a>
+</p>
+
+<hr>
+<pre>
 <p align="left">• 👯 I’m looking to collaborate on new projects and challenges<br><br>• 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br><br>• 📄 Know about my experiences https://www.linkedin.com/in/farah-dridi-it-engineer/</p>
+</pre>
+<hr>
 
 ###
 
-<h4 align="left">Languages and Tools:</h4>
+## 👨‍💻 Languages and Tools
 
 ###
 
@@ -80,9 +99,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
 
-###
-
-<h4 align="left">Connect with me:</h4>
+## 🤝 Connect with me
 
 ###
 
@@ -93,6 +110,40 @@
 </div>
 
 ###
+
+<h4 align="left">💻 GitHub Stats</h4>
+<summary><b>⚡ FarahDvp's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/FarahDvp">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FarahDvp&show_icons=true" alt="FarahDvp">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarahDvp" alt="FarahDvp">
+	</a>
+	<br/>
+</p>
+<br/>
+
+<summary><b>⚡ Activity graph</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/FarahDvp">
+		<img src="https://activity-graph.herokuapp.com/graph?username=FarahDvp&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="FarahDvp">
+	</a>
+</p>
+<br/>
+
+
+<summary><b>⚡ Top Languages</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/FarahDvp">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahDvp&langs_count=8&layout=compact" alt="FarahDvp">
+	</a>
+	<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<br/>
 
 <!--
 **FarahDvp/FarahDvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
