@@ -16,6 +16,7 @@
 <hr>
 
 <pre>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="left">
   • 👯 I’m looking to collaborate on new projects and challenges<br>
   • 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br>
