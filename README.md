@@ -174,7 +174,7 @@ I believe in continuous improvement, both in code and in learning. Every project
 [FarahDvp](https://github.com/FarahDvp)
 <br/>
 <br>
-Last Edited on: 12/15/2024
+Last Edited on: December 15, 2024.
 
 <!--
 **FarahDvp/FarahDvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
