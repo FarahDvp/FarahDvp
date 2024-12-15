@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farah DRIDI</h1>
 
-###
-
-<h4 align="center">A passionate web developer from Tunisia, looking for new challenges</h4>
-
 <p align="center">
 	<a href="https://github.com/FarahDvp">
 		<img src="https://komarev.com/ghpvc/?username=FarahDvp&label=Profile%20views&color=0e75b6&style=flat" alt="FarahDvp" />
