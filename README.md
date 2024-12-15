@@ -14,14 +14,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+It's+Farah+DRIDI..&hearts;++;Full-Stack+Engineer;Java,+JavaScript,+Python+Developer;Skilled+in+Code+Quality+Assurance;Committed+to+Continuous+Learning..&hearts;++;AI+Enthusiast"></a>
 </p>
 <hr>
-<div style="font-size: 16px; line-height: 1.5; max-width: 100%; word-wrap: break-word;">
+<pre style="font-size: 16px; line-height: 1.5; max-width: 100%; word-wrap: break-word;">
   <p align="left" style="margin: 0;">
     • 👯 I’m looking to collaborate on new projects and challenges<br>
     • 📫 How to reach me <a href="mailto:farahdridy@gmail.com" style="color: #007bff; text-decoration: none;">farahdridy@gmail.com</a><br>
     • 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/" style="color: #007bff; text-decoration: none;">LinkedIn</a><br>
     • 🌐 My Portfolio <span style="color: gray; font-style: italic;">(Portfolio is coming soon!)</span> <!-- 🌐 [Portfolio](https://farah.vercel.app) -->
   </p>
-</div>
+</pre>
+<hr>
 
 ## 👨‍💻 Languages and Tools
 
