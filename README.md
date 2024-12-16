@@ -110,7 +110,6 @@
 <p align="center">
 	<a href="https://github.com/FarahDvp">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FarahDvp&show_icons=true" alt="FarahDvp">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarahDvp" alt="FarahDvp">
 	</a>
 	<br/>
 </p>
