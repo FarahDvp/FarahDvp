@@ -156,7 +156,7 @@
 
 **<a href="https://github.com/FarahDvp"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
-“<b>I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.</b>”
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
 <br/>
 <br/>
@@ -172,7 +172,7 @@ I believe in continuous improvement, both in code and in learning. Every project
 [FarahDvp](https://github.com/FarahDvp)
 <br/>
 <br>
-Last Edited on: December 15, 2024.
+Last Edited on: December 16, 2024.
 
 <!--
 **FarahDvp/FarahDvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
