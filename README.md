@@ -18,7 +18,6 @@
 <p align="left">
   • 👯 I’m looking to collaborate on new projects and challenges<br>
   • 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br>
-  • 📄 Know about my experiences <a href="https://www.linkedin.com/in/farah-dridi-it-engineer/">LinkedIn</a><br>
   • 🌐 My Portfolio is coming soon!<!-- 🌐 [Portfolio](https://farah.vercel.app) -->
 </p>
 </pre>
