@@ -18,7 +18,7 @@
 <p align="left">
   • 👯 I’m looking to collaborate on new projects and challenges<br>
   • 📫 How to reach me <a href="mailto:farahdridy@gmail.com">farahdridy@gmail.com</a><br>
-  • 🌐 [My Portfolio](https://farahdridi.netlify.app) 
+  • 🌐 My Portfolio <a href="https://farahdridi.netlify.app">https://farahdridi.netlify.app</a>
 </p>
 </pre>
 <hr>
